@@ -1,0 +1,26 @@
+ls
+cat
+tail README
+ls
+cd
+
+ls
+cat text.txt
+tail text.txt
+clear
+ls
+cat text.txt
+tail text.txt 4
+ls
+cat text.txt
+tail text.txt
+ls
+cat text.txt
+tail text.txt
+tail text.txt 5
+ls
+cat text.txt
+tail text.txt 5
+clear
+exit
+ls
